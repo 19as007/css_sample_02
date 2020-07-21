@@ -1,0 +1,32 @@
+body {
+    background-color: silver;
+}
+
+#container {
+    width: 800px;
+    margin: auto;
+    background-color: #946c45;
+}
+
+header {
+    padding: 40px;
+    height: 80px;
+}
+
+nav {
+    padding: 8px 40px;
+    background-color: #946c45;
+    color: #9fc24d;
+}
+
+article {
+    padding: 40px;
+    min-height : 400px;
+}
+
+footer {
+    padding: 40px;
+    height: 40px;
+    background-color : #946c45;
+    color: #9fc24d;
+}
